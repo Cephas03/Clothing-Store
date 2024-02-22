@@ -1,0 +1,1 @@
+export const capitalizeWord = str => str.toUpperCase()
